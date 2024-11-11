@@ -91,6 +91,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-Kolla Vinay Sai - (mailto:kollavinaysai@gmail.com)
+Kolla Vinay Sai - mail to : kollavinaysai@gmail.com
 
 Project Link: [https://github.com/yourusername/nse-portfolio-optimization](https://github.com/yourusername/nse-portfolio-optimization)
